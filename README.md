@@ -1,9 +1,13 @@
 # PORTFOLIO
 
 This is a portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design.
+
 Engaging User Experience: Crafted with modern design principles and intuitive navigation for a seamless browsing experience.
+
 Showcase of Projects: Highlighting a diverse range of projects with detailed descriptions, technologies used, and interactive demos.
+
 Personal Branding: Reflecting professionalism and personality through customized sections, including an about me, skills, and contact information.
+
 Responsive Design: Ensuring compatibility across various devices, from desktops to smartphones, for accessibility and convenience.
 
 ## Installation
